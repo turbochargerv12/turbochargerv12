@@ -1,14 +1,8 @@
-Hey there.......
+## Hi 👋, Myself Roshan Reji
 
-Me Roshan Reji 
-IGN: turbochargerv12,lambodaren007
+### Welcome to my part of the forking thingy 
 
-nice meeting up with u,
-
-IDK what to do in this vast world. I like testing and creating something different.
-
-soooooooooooooooooooooooooooooooooooooooooooooooo....
-
-Youtube algorithm is mostly manipulative and cunning lol
-
-mostly lonely and silent.....
+- 📫 How to reach me ... **turbochargerv12@gmail.com**
+- 🔭 I’m currently working on ... **black arch linux**
+- 🌱 I’m currently learning ... **flutter**
+- 💬 Ask me about -Guns / cars / My day / lofi,synth wave songs
