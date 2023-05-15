@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Roshan Reji</h1>
-<h3 align="center">A passionate embedded developer from India</h3>
+<h3 align="center">A passionate flutter and Unity dev from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richu101&label=Profile%20views&color=0e75b6&style=flat" alt="richu101" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/turbochargerv12)" alt="turbochargerv12" /> </p>
 
-- 🔭 I’m currently working on **RC Transmitter and Receiver**
+- 🔭 I’m currently working on **flutter and backend development**
 
-- 🌱 I’m currently learning **Embedded programming , python , web dev**
+- 🌱 I’m currently learning **openCV , python**
 
-- 💬 Ask me about **Embedded , shooting**
+- 💬 Ask me about **flutter and unity**
 
-- 📫 How to reach me **richubini101@gmail.com**
+- 📫 How to reach me **roshanreji2077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/richu bini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="richu bini" height="30" width="40" /></a>
-<a href="https://instagram.com/tech.rick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tech.rick" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/roshanreji2077" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="turbochargerv12" /></a>
+<a href="https://www.instagram.com/turbochargerv12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tech.rick" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
