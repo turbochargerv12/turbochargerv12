@@ -8,7 +8,7 @@ When I'm not wielding my keyboard like a lightsaber, you can find me lost in the
 
 ## Let's Connect! 🌐
 
-- **Email**: turbochargerv12@email.com 📧
+- **Email**: turbochargerv12@gmail.com 📧
 - **LinkedIn**: www.linkedin.com/in/roshanreji2077
 - **Instagram**: www.instagram.com/turbochargerv12
 
