@@ -13,8 +13,8 @@ When I'm not wielding my keyboard like a lightsaber, you can find me lost in the
 - **Instagram**: www.instagram.com/turbochargerv12
 
 ## In My Toolbox 🧰
--**React**: Trying to learn the basics of react and seeking knowledge for projects
--**Python**: My trusty steed for conquering coding quests and scripting sagas.
+- **React**: Trying to learn the basics of react and seeking knowledge for projects
+- **Python**: My trusty steed for conquering coding quests and scripting sagas.
 - **Dart & Flutter**: Crafting pixel-perfect UIs and fluttering across platforms like a digital monarch.
 - **OpenCV**: Peering into the pixelated abyss, seeking patterns and extracting insights.
 - **App Restoration**: Resurrecting forgotten apps and breathing new life into digital relics.
